@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Cube files
+*.metadata
+*.cproject
+*.project
+*.xml
+*.ld
+
